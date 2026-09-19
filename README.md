@@ -2,6 +2,26 @@
 
 An intelligent tool that automatically generates step-by-step installation guides for GitHub repositories, making it easy for non-technical users to install open-source software without using the terminal.
 
+## ⚠️ Quick Start - Read This First!
+
+**Your project is located at:** `C:\Users\Hp\OneDrive\Desktop\gitstaller`
+
+### 🚀 Easiest Way to Run (3 Options):
+
+1. **Double-Click Method** (Recommended for beginners):
+   - Double-click `start-dev.bat` in the project folder to start everything at once!
+   - Or run `start-backend.bat` and `start-frontend.bat` separately
+
+2. **Command Prompt**:
+   ```cmd
+   cd C:\Users\Hp\OneDrive\Desktop\gitstaller
+   ```
+   Then see [QUICKSTART.md](QUICKSTART.md) for detailed instructions
+
+3. **Already know what you're doing?** See the full installation guide below ⬇️
+
+> 📖 **New to Gitstaller?** Check [QUICKSTART.md](QUICKSTART.md) for step-by-step instructions with screenshots!
+
 ## 🎯 Problem Solved
 
 Most open-source projects on GitHub require terminal/command-line knowledge to install. Gitstaller analyzes any GitHub repository and generates simple, visual installation guides that anyone can follow.
